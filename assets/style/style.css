@@ -1,0 +1,16 @@
+.btn-send
+{
+    background-color: rgb(167, 249, 249);
+    border: none;
+    height: 50px;
+    width: 90px;
+    border-radius: 10px;
+}
+
+.btn-clear {
+    background-color: rgb(245, 172, 119);
+    border: none;
+    height: 50px;
+    width: 90px;
+    border-radius: 10px;
+}
